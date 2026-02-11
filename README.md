@@ -70,5 +70,3 @@ You can explore my pinned repositories below for:
 
 ---
 
-> "Simple systems scale. Complex systems fail loudly."
-
