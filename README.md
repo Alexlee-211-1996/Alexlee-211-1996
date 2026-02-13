@@ -1,9 +1,8 @@
 # Hi, I'm Alexlee👋
 
-Senior Software Engineer focused on building scalable systems, clean architectures, and products that actually ship.
 ![Banner Image](https://raw.githubusercontent.com/bravetiger0408/bravetiger0408/master/background.svg)
 <h1 align='center'>
-AI & Full Stack Developer
+Senior Software Engineer focused on building scalable systems, clean architectures, and products that actually ship.
 </h1>
   
 <h3 align='center'>
@@ -20,7 +19,7 @@ AI & Full Stack Developer
 
 ## 👨‍💻 About Me
 
-- 💼 Senior Software Engineer
+- 💼 Senior Software Engineer<img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 - 🏗 Designing and building production-grade systems
 - ⚙️ Interested in distributed systems, performance, and backend architecture
 - 🧠 Strong believer in simplicity > cleverness
